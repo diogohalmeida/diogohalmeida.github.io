@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "congo"
+colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
@@ -18,7 +18,7 @@ enableImageWebp = true
 fingerprintAlgorithm = "sha256"
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
@@ -26,11 +26,11 @@ fingerprintAlgorithm = "sha256"
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "profile" # valid options: page, profile, custom
   showRecent = false
   recentLimit = 5
 
