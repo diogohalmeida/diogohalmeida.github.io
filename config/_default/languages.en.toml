@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Diogo Almeida"
+title = "Diogo Almeida · diogohalmeida"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -19,6 +19,8 @@ title = "Diogo Almeida"
   # bio = "A little bit about you"
   links = [
   { email = "mailto:diogohenriquealmeida@hotmail.com" },
+  { github = "https://github.com/diogohalmeida" },
+  { linkedin = "https://linkedin.com/in/diogohalmeida" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -29,7 +31,6 @@ title = "Diogo Almeida"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  { github = "https://github.com/diogohalmeida" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
@@ -38,7 +39,6 @@ title = "Diogo Almeida"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  { linkedin = "https://linkedin.com/in/diogohalmeida" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },
@@ -60,5 +60,4 @@ title = "Diogo Almeida"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-  { circle-info = "https://link-to-some-website.com/" },
   ]

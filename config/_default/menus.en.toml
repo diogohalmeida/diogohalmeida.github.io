@@ -11,18 +11,21 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Resume"
+  url = "/resume/cv.pdf"
   weight = 10
+  [main.params]
+    icon = "link"
+    target = "_blank"
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Blog"
+  pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "About"
+  pageRef = "about"
   weight = 30
 
 [[main]]
