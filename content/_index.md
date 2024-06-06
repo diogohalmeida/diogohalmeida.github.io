@@ -2,4 +2,4 @@
 description: Personal website of Diogo Almeida
 ---
 
-Hello there!
+Hello there, welcome to my website! 🧑🏽‍💻

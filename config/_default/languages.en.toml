@@ -15,7 +15,7 @@ title = "Diogo Almeida · diogohalmeida"
 [params.author]
   name = "Diogo Almeida"
   image = "img/author.jpg"
-  headline = "Full-Stack Software Engineer"
+  headline = "Software Engineer"
   # bio = "A little bit about you"
   links = [
   { email = "mailto:diogohenriquealmeida@hotmail.com" },
